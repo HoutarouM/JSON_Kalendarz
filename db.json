@@ -1,9 +1,19 @@
 {
     "zadania": [
-        "Zagraj 10 metczy w Dota 2",
-        "Zagraj 2 metcze na Mars",
-        "Zagraj Leon na mid",
-        "Zagraj Cristal Maiden",
-        "Zagraj 15 metczy Dawnbreaker"
+        {
+            "tresc": "Zagraj 10 metczy w Dota 2",
+        },
+        {
+            "tresc": "Zagraj 2 metcze na Mars",
+        },
+        {
+            "tresc": "Zagraj Leon na mid",
+        },
+        {
+            "tresc": "Zagraj Cristal Maiden",
+        },
+        {
+            "tresc": "Zagraj 15 metczy Dawnbreaker"
+        },
     ]
 }
